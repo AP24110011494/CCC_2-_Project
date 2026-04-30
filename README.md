@@ -22,7 +22,7 @@ Tasks are stored in a heap-based priority queue. The scheduler always executes t
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-scheduler-priority-queue-dsa.git
+   git clone https://github.com/AP24110011494/task-scheduler-priority-queue-dsa.git
 2.Open the project folder
 3.Double-click on index.html
           OR
